@@ -15,7 +15,7 @@ body,h1,h2,h3,h4,h5, {font-family: "Releway", sans-serif}
 <!-- w3-content defines a container for fixed size centered content, 
 and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-content" style="max-width:1500px">
-<a href="#"     class="w3-bar-item w3-button w3-padding-large w3-theme-d4" "color:rgb(100, 100, 100);"></a>
+
 
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
