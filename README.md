@@ -1,20 +1,16 @@
 <html>
 <head>
-	<meta charset="UTF-8">
-		    <meta name="Keywords"  content="shoe,shoes,repair,">
-		    <meta name="language"  content="persian,english,">
-		    <meta name="viewport"  content="width=device-width,height=device-height, initial-scale=1.0">
-		    <meta name="robots"    content="index, follow">
-		    <meta name="googlebot" content="noarchive">
+
 <title>W3.CSS hatami</title>
 <meta charset="UTF-8">
 <meta name="viewport" contact="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-body,h1,h2,h3,h4,h5, {font-family: "Releway", sans-serif}
-</style>
+ <style>
+  body,h1,h2,h3,h4,h5, {font-family: "Releway", sans-serif}
+ </style>
+
 </head>
-<body class="w3-hover-white">
+  <body class="w3-hover-white">
 
 
 <!-- w3-content defines a container for fixed size centered content, 
