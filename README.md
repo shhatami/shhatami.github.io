@@ -35,7 +35,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     <img src="/w3images/woods.jpg" alt="It is me" style="width:100%">
     <div class="w3-container">
 	<h3><b>About me</b></h3>
-      <h5>my intorduce, <span class="w3-opacity">If you want to know me read here</span></h5>
+      <h5> About me, <span class="w3-opacity">If you want to know me read here</span></h5>
     </div>
 	<div class="w3-container">
       <p>My name is Shahnaz Hatami. I obtained my bachelor's degree in Statistics at the Azad Kermanshah University. I completed an M.S. in Industrial Engineering and System Management at Azad Arak University. After graduating from Azad Arak University, I worked at different companies as a web developer. As an entrepreneur, I am part of the small Group. My investigations are on data science including data, data mining, classification, clustering, big data, artificial intelligence technologies, supervised and unsupervised methods, and networks, and I am also interested in information security.</p>
