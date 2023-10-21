@@ -39,6 +39,10 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 	<div class="w3-container">
       <p>My name is Shahnaz Hatami. I obtained my bachelor's degree in Statistics at the Azad Kermanshah University. I completed an M.S. in Industrial Engineering and System Management at Azad Arak University. After graduating from Azad Arak University, I worked at different companies as a web developer. As an entrepreneur, I am part of the small Group. My investigations are on data science including data, data mining, classification, clustering, big data, artificial intelligence technologies, supervised and unsupervised methods, and networks, and I am also interested in information security.</p>
+      <p>Research interest
+My experiences in a career and study make me interested in following data science and artificial intelligence technologies my research is on big data, data mining, classification algorithms by MCDM methods, clustering, data analysis, unsupervised methods, and image processing to some extent, and also I am interested in networks and information security. 
+</p>
+		
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
