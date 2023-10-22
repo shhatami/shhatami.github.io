@@ -65,7 +65,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       <p>
 	  <p>1. Evaluation and Ranking feature selection and Classification Algorithms by MCDM Methods. Not published Due to the delay in publication. Shahnaz Hatami, Mohammad Ali Keramati. 2015.</p>
 <p>Purpose: In this paper, the best feature methods and classification algorithms are determined in each database by the MCDM tool (like VICOR and TOPSIS) and then evaluated and ranked.</p>
-<p>2. The Role of Data Mining in the Agricultural Industry and Medicinal Plants paper (Published in international Conference on Biology of Medicinal Plants in Iran)</p>
+<p>2. The Role of Data Mining in the Agricultural Industry and Medicinal Plants. International Conference on Biology of Medicinal Plants in Iran. Shahnaz Hatami, Soheila Hatami, Mohammad Ali Keramati, Mohammad Sadegh Horri, Habibullah Javanmard, Mohammad-Bagher Rezaee. 2023.</p>
 <p>Purpose: In this research specified a specific technique of data mining (including classification, clustering, association rules, and regression) in different episodes of agriculture, such as soil classification, forecasting climate change, and such by classification algorithms (Including decision trees, artificial neural networks, fuzzy logic, and such).</p>
 <p>3. Climate change and the significance of data mining in big data analysis for environmental sustainability paper (Published in International congress of sustainable natural resources medicinal plants and knowledge-based production in Iran)</p>
 <p>Purpose: Datamining algorithms like classification, clustering, regression, Frequent item set or pattern mining, and data visualization on influential climate change factors are the focus of this research.</p> 
