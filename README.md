@@ -70,7 +70,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <p>3. Climate change and the significance of data mining in big data analysis for environmental sustainability. Published in International congress of sustainable natural resources medicinal plants and knowledge-based production in Iran. Neda Rezaei, Shahnaz Hatami, Firoozeh Hatami. 2023.</p>
 <p>Purpose: Datamining algorithms like classification, clustering, regression, Frequent item set or pattern mining, and data visualization on influential climate change factors are the focus of this research.</p> 
 <p>4.   From big data to conservation, exploring the value of forests. Linnaeus University conference in Växjö. Shahnaz Hatami, Mohammad Ali Keramati, Firoozeh Hatami. 2023.</p>
-<p>Purpose: I described a solution by applying machine learning to big data to detect and monitor forest damage.</p>
+<p>Purpose: I described a solution by applying machine learning to big data to detect and monitor forest damage. </p>
 <p>5. Optimization of Support vector machine: A review paper (Under review)</p>
 <p>Purpose: A review of Genetic, Particle Swarm Optimization, The Whale or WOA, Artificial bee colony optimization, and Ant Colony Optimization algorithms for more research.</p>
 <p>6. Climate change and Integrating Big Data Algorithms paper (Under review)</p>
