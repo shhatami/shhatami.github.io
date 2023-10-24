@@ -50,7 +50,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 		<div class="w3-col m4 w3-hide-small">
           <!--<p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-tag">0</span></span></p>-->
         </div>
-      </div>
+      </div> 
     </div>
   </div>
   <hr>
