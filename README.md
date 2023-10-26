@@ -72,7 +72,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <p>4. From big data to conservation, exploring the value of forests. Linnaeus University conference in Växjö. Shahnaz Hatami, Mohammad Ali Keramati, Firoozeh Hatami. 2023.</p>
 <p>Purpose: I described a solution by applying machine learning to big data to detect and monitor forest damage.</p>
 <p>5. Optimization of Support vector machine: A review. Under review.</p>
-<p>Purpose: A review of Genetic, Particle Swarm Optimization, The Whale or WOA, Artificial bee colony optimization, and Ant Colony Optimization algorithms for more research. </p>
+<p>Purpose: A review of Genetic, Particle Swarm Optimization, The Whale or WOA, Artificial bee colony optimization, and Ant Colony Optimization algorithms for more research.</p>
 <p>6. Climate change and Integrating Big Data Algorithms paper (Under review)</p>
 <p>Purpose: Combining different patterns of data mining to obtain a unique algorithm.</p>
 <p>7. Zagros oak forests in Iran and the importance of their protection by big data paper (Published in international Conference)</p>
