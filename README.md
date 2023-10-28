@@ -18,7 +18,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-content" style="max-width:1500px">
 
 
-<!-- Header -->
+<!-- Header --> 
 <header class="w3-container w3-center w3-padding-32"> 
   <!--<h1><b>MY BLOG</b></h1>-->
   
