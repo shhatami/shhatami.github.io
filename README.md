@@ -24,7 +24,7 @@ and is wrapped around the whole page content, except for the footer in this exam
   
   <p>Welcome to the page of Shani<!--<span class="w3-tag">Shani</span>--></p>
   
-</header> 
+</header>
 
 <!-- Grid -->
 <div class="w3-row">
