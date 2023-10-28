@@ -13,7 +13,7 @@
   <body class="w3-hover-white">
 
 
-<!-- w3-content defines a container for fixed size centered content, 
+<!-- w3-content defines a container for fixed size centered content,
 and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-content" style="max-width:1500px">
 
