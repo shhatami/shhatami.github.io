@@ -10,7 +10,7 @@
  </style>
 
 </head>
-  <body class="w3-hover-white">
+  <body class="w3-hover-white"> 
   
 
 <!-- w3-content defines a container for fixed size centered content,
