@@ -164,7 +164,7 @@ and is wrapped around the whole page content, except for the footer in this exam
   
   
   <button class="w3-button w3-black w3-padding-large w3-margin-bottom">contact »</button>
-  <p>Powered by <a href="https://www.linkedin.com/in/hatami84" target="_blank">Shani</a></p>
+  <p>Powered by <a href="www.linkedin.com/in/hatami84" target="_blank">Shani</a></p>
 </footer>
 
 </body>
