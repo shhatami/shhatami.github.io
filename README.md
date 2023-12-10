@@ -53,7 +53,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
   </div>
   <hr>
-  <!-- Blog entry -->
+  <!-- Blog entry --> 
   <div class="w3-card-4 w3-margin w3-white">
   <img src="/w3images/bridge.jpg" alt="My study" style="width:100%">
     <div class="w3-container">
