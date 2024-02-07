@@ -62,22 +62,21 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 	<div class="w3-container">
       <p>
-	  <p>1. Evaluation and Ranking feature selection and Classification Algorithms by MCDM Methods. Not published Due to the delay in publication. Shahnaz Hatami, Mohammad Ali Keramati. 2015.</p>
+	  <p>1. Evaluation and Ranking feature selection and Classification Algorithms by MCDM Methods. Not published Due to the delay in publication. Shahnaz Hatami*, Mohammad Ali Keramati. 2015.</p>
 <p>Purpose: In this paper, the best feature methods and classification algorithms are determined in each database by the MCDM tool (like VICOR and TOPSIS) and then evaluated and ranked.</p>
-<p>2. The Role of Data Mining in the Agricultural Industry and Medicinal Plants. International Conference on Biology of Medicinal Plants in Iran. Shahnaz Hatami, Soheila Hatami, Mohammad Ali Keramati, Mohammad Sadegh Horri, Habibullah Javanmard, Mohammad-Bagher Rezaee. 2023.</p>
+<p>2. The Role of Data Mining in the Agricultural Industry and Medicinal Plants. International Conference on Biology of Medicinal Plants in Iran. Shahnaz Hatami*, Soheila Hatami, Mohammad Ali Keramati, Mohammad Sadegh Horri, Habibullah Javanmard, Mohammad-Bagher Rezaee. 2023.</p>
 <p>Purpose: In this research specified a specific technique of data mining (including classification, clustering, association rules, and regression) in different episodes of agriculture, such as soil classification, forecasting climate change, and such by classification algorithms (Including decision trees, artificial neural networks, fuzzy logic, and such).</p>
 <p>3. Climate change and the significance of data mining in big data analysis for environmental sustainability. Published in International congress of sustainable natural resources medicinal plants and knowledge-based production in Iran. Neda Rezaei, Shahnaz Hatami, Firoozeh Hatami. 2023.</p>
 <p>Purpose: Datamining algorithms like classification, clustering, regression, Frequent item set or pattern mining, and data visualization on influential climate change factors are the focus of this research.</p> 
-<p>4. From big data to conservation, exploring the value of forests. Linnaeus University conference in Växjö. Shahnaz Hatami, Mohammad Ali Keramati, Firoozeh Hatami. 2023.</p>
+<p>4. From big data to conservation, exploring the value of forests. Linnaeus University conference in Växjö. Shahnaz Hatami*, Mohammad Ali Keramati, Firoozeh Hatami. 2023.</p>
 <p>Purpose: I described a solution by applying machine learning to big data to detect and monitor forest damage.</p>
-<p>5. Optimization of Support vector machine: A review. Under review.</p>
-<p>Purpose: A review of Genetic, Particle Swarm Optimization, The Whale or WOA, Artificial bee colony optimization, and Ant Colony Optimization algorithms for more research.</p>
-<p>6. Climate change and Integrating Big Data Algorithms paper (Under review)</p>
-<p>Purpose: Combining different patterns of data mining to obtain a unique algorithm.</p>
-<p>7. Zagros oak forests in Iran and the importance of their protection by big data paper (Published in international Conference)</p>
-<p>Purpose: Providing ways for the protection and restoration of one of Iran's important forests using big data algorithms.</p>
-<p>8. OR (Operation Research) book (Published in Ghalamchi Institute in Iran)</p>
-<p>9. English Language book (Published in Ghalamchi Institute in Iran)</p>
+<p>5. Data Mining Approach in the Agricultural Industry, Medicinal Plants (case study); A Review.Shahnaz Hatami*, Mohammad Hatami-B, Danial Kahrizi.2024.</p>
+<p>Purpose: The article was presented the most effective data analysis methods in the agriculture and natural resources areas, focusing specifically on the medicinal plant industry, accompanied by their corresponding algorithms.</p>
+<p>6. OR (Operation Research) book (Published in Ghalamchi Institute in Iran)</p>
+<p>7. English Language book (Published in Ghalamchi Institute in Iran)</p>
+<p>8. Studying the environmental costs of producing renewable and non-renewable power plants in Iran. International Conference.</p>
+<p>Purpose: Economic study of the production of renewable and non-renewable power plants in Iran using the estimation of environmental costs.Neda Rezaei*, Shahnaz Hatami. 2023.</p>
+
 
 	  </p>
       <div class="w3-row">
