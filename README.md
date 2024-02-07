@@ -70,7 +70,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <p>Purpose: Datamining algorithms like classification, clustering, regression, Frequent item set or pattern mining, and data visualization on influential climate change factors are the focus of this research.</p> 
 <p>4. From big data to conservation, exploring the value of forests. Linnaeus University conference in Växjö. Shahnaz Hatami*, Mohammad Ali Keramati, Firoozeh Hatami. 2023.</p>
 <p>Purpose: I described a solution by applying machine learning to big data to detect and monitor forest damage.</p>
-<p>5. Data Mining Approach in the Agricultural Industry, Medicinal Plants (case study); A Review.Shahnaz Hatami*, Mohammad Hatami-B, Danial Kahrizi.2024.</p>
+<p>5. Data Mining Approach in the Agricultural Industry, Medicinal Plants (case study); A Review. Journal of Medicinal Plants and By-products. Shahnaz Hatami*, Mohammad Hatami-B, Danial Kahrizi. 2024.</p>
 <p>Purpose: The article was presented the most effective data analysis methods in the agriculture and natural resources areas, focusing specifically on the medicinal plant industry, accompanied by their corresponding algorithms.</p>
 <p>6. OR (Operation Research) book (Published in Ghalamchi Institute in Iran)</p>
 <p>7. English Language book (Published in Ghalamchi Institute in Iran)</p>
